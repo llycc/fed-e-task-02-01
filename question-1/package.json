@@ -1,0 +1,12 @@
+{
+  "name": "domo-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo-cli.js",
+  "bin": "demo-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "llycc",
+  "license": "ISC"
+}
